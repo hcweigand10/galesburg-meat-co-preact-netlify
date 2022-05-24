@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: hcweigand10/galesburg-meat-co-preact-netlify
-  branch: master
+  branch: mai
 media_folder: src/assets
 public_folder: /assets
 collections:
